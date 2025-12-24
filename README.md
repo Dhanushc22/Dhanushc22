@@ -67,8 +67,10 @@ Xworkz played a key role in strengthening my technical fundamentals and building
 ## GitHub Stats & Activity
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanushc22&theme=dark" alt="GitHub Streak" height="160"/> </p>
-
-
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanushc22&theme=dark&hide_border=true&cache_seconds=86400&rank_icon=github"
+     height="160"/>
+</p>
 
 
 
