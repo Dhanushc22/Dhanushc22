@@ -67,10 +67,7 @@ Xworkz played a key role in strengthening my technical fundamentals and building
 ## GitHub Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanushc22&show_icons=true&theme=dark&cache_seconds=86400"
-     alt="GitHub Stats"
-     height="160"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanushc22&show_icons=true&theme=dark" alt="GitHub Stats" height="160"/>
 </p>
 
 
