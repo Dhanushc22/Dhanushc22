@@ -88,4 +88,4 @@ Xworkz played a key role in strengthening my technical fundamentals and building
 - Email: dhanushc092@email.com  
 - GitHub: https://github.com/Dhanushc22  
 - LinkedIn: https://www.linkedin.com/in/dhanushc22
-- Portfolio: https://dhanushc22.github.io/Dhanushc22-portfolio/
+- Portfolio: https://dhanush-dev-space.vercel.app/
