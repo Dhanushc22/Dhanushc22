@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=120&section=header&text=Dhanush%20C&fontSize=36&fontColor=ffffff" />
 </p>
 
----
+<h2 align="center">My GitHub Activity Game</h2>
+
+<p align="center">
+  <img src="assets/space-shooter.gif" />
+</p>
 
 ## Current Role
 
